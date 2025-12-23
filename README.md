@@ -1,2 +1,3 @@
-Les screens est dans le fichier world
-"TP MultiBranch DEVOPS"
+L’objectif de ce TP est de mettre en place un Pipeline Jenkins Multibranch permettant de récupérer automatiquement un projet Maven depuis un dépôt GitHub, de compiler, tester et packager une application Java, puis de l’exécuter à travers un pipeline Jenkins utilisant des agents Docker.
+Ce travail vise également à comprendre la configuration de Jenkins exécuté dans un conteneur Docker, ainsi que la résolution des erreurs courantes liées à l’accès au Docker Engine, notamment les problèmes de connexion et de permissions sur le socket Docker.
+Les captures d’écran de l’exécution du pipeline et des différentes étapes sont intégrées dans le rapport PDF joint.
